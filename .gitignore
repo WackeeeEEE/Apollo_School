@@ -1,0 +1,11 @@
+downloads/
+apollo_venv/
+__pycache__/
+backup/
+/CONFIG.json
+/CREDS.json
+/settings.json
+/settingslin.json
+/settingswin.json
+/CONFIGlin.json
+/CONFIGwin.json
